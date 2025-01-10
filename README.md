@@ -1,4 +1,4 @@
-# BERT Model: Masked Word Prediction and Sentiment Analysis
+# BERT Model: Masked Word Prediction and Sentiment Analysis 
 
 This project demonstrates the use of **BERT** (Bidirectional Encoder Representations from Transformers) for tasks such as:
 - Predicting masked words using the **fill-mask** pipeline.
